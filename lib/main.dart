@@ -12,7 +12,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Material(
         child: Center(
-          child: Container(child: Text("WELCOME to 30 of Flutter")
+          child: Container(
+            child: Text("WELCOME to 30 of Flutter")
           ),
         ),
       ),
